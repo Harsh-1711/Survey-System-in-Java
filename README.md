@@ -1,2 +1,2 @@
-# Survey-System-in-C-
-A simple desktop based application made with C#
+# Survey-System-in-Java-
+A simple desktop based application made with Java
